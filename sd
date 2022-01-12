@@ -1,0 +1,37 @@
+git init
+
+ex00
+  cat > z
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+
+ex01
+  cat > testShell00
+  chmod 455
+  touch -t CCAA0601HHMMss 
+   tar -cf testShell00.tar testShell00
+   
+ex02
+  mkdir test0
+  cat > test1
+  zzzz
+  mkdir test2
+  cat > test3
+  z
+  ln test3 test5
+  cat > test4
+  zz
+  ls -s test0 test6
+  
+  chmod 715 test0
+  chmod 714 test1
+  chmod 504 test2
+  chmod 404 test3
+  chmod 641 test4
+  chmod 404 test5
+  
+  touch -a -t CCAA0601HHMMss 
+  tar -cf exo2.tar
+  
+  ex03
+    ssh-keygen -t rsa
+      id file : .ssh
